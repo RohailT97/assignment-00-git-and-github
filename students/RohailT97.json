@@ -1,0 +1,14 @@
+{
+  "firstName": "Rohail",
+  "lastName": "Talpur",
+  "nickName": false,
+  "privateName": false,
+  "picture": "images/rohail_talpur.jpg",
+  "privatePicture": false,
+  "email": "rohail.talpur@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "RohailT97",
+  "privateGithub": false,
+  "superpower" : "An unparalleled ability to overestimate my sense of navigation",
+  "academicinterests": "Any number of historical eras, the technical side of video and audio production, and watching the Leafs play"
+}
