@@ -17,3 +17,4 @@ utils/00-git-and-*
 /utils/00-git-forks.json
 /utils/allstudents.json
 /package-lock.json
+package-lock.json
